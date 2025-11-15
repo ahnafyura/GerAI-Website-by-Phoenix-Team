@@ -108,18 +108,6 @@ PHOENIXDIR/
 └── vite config js
 ```
 
----
-
-## Roadmap
-
-* [x] Halaman Detail UMKM
-* [x] Sistem Favorit
-* [x] Galeri dan Layout
-* [ ] Pencarian Real Time
-* [ ] Mode Gelap
-* [ ] Integrasi Map
-
----
 
 ## Menjalankan Proyek Secara Lokal
 
@@ -150,18 +138,7 @@ npm run dev
 5. Buka browser dan akses
    [http://localhost:5173](http://localhost:5173)
 
----
-
-## Kontribusi
-
-Kontribusi dari siapa saja sangat dihargai. Fork proyek ini buat branch baru dan ajukan pull request.
-
----
 
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT.
-
----
-
-Dibuat dengan hati oleh Phoenix Team untuk MIA 2025
