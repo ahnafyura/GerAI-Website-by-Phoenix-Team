@@ -142,3 +142,41 @@ npm run dev
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT.
+
+## Contributor
+
+## Kontributor
+
+Terima kasih kepada para kontributor yang telah mendukung proyek ini
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ahnafyura">
+        <img src="https://github.com/ahnafyura.png" width="90" style="border-radius:50%" />
+        <br />
+        <sub><b>Ahnaf</b></sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/yuruze07">
+        <img src="https://github.com/yuruze07.png" width="90" style="border-radius:50%" />
+        <br />
+        <sub><b>Fawwaz</b></sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/hazzmiuww">
+        <img src="https://github.com/hazzmiuww.png" width="90" style="border-radius:50%" />
+        <br />
+        <sub><b>Haziq</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
