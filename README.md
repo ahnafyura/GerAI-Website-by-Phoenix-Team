@@ -4,7 +4,7 @@ GerAI adalah platform direktori UMKM (Usaha Mikro, Kecil, dan Menengah) yang ber
 
 Proyek ini dibuat sebagai submisi untuk **MIA (Multimedia In Action) 2025** dengan tema *Empowering Visionaries Impacting Industries*. Seluruh aplikasi dibuat sebagai **Front-End murni** sesuai ketentuan kompetisi.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 * **Direktori UMKM Dinamis**
   Data UMKM diambil dari database JSON statis (`umkm-data.json`) dan dirender secara dinamis.
@@ -26,7 +26,7 @@ Proyek ini dibuat sebagai submisi untuk **MIA (Multimedia In Action) 2025** deng
 
 ---
 
-## 💻 Tumpukan Teknologi
+## Tech Stack
 
 * **React 19** (Vite)
 * **Tailwind CSS**
@@ -37,7 +37,7 @@ Proyek ini dibuat sebagai submisi untuk **MIA (Multimedia In Action) 2025** deng
 
 ---
 
-## 📂 Struktur Folder
+## Struktur Folder
 
 ```
 PHOENIXDIR/
@@ -59,7 +59,7 @@ PHOENIXDIR/
 
 ---
 
-## 🛠️ Menjalankan Projek Secara Lokal
+## Menjalankan Projek Secara Lokal
 
 1. **Clone repository**
 
