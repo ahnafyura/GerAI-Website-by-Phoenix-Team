@@ -150,16 +150,15 @@ const FeaturedStories = () => (
         <div className="flex flex-col items-center">
           <img
             className="h-24 w-24 rounded-full object-cover mb-4"
-            src="https://placehold.co/100x100/F3EADB/C0A98E?text=Maya"
-            alt="Maya's Artisan Bakery"
+            src="https://placehold.co/100x100/F3EADB/C0A98E?text=Ampera"
+            alt="Ampera"
           />
           <h3 className="text-lg font-semibold text-gray-900">
-            Maya's Artisan Bakery
+            Masakan Padang Ampera
           </h3>
           <p className="text-gray-500 mb-2">Food & Beverage</p>
           <p className="text-sm text-gray-600">
-            Started in Maya's grandmother's kitchen, this bakery has been
-            serving fresh pastries for over 10 years...
+            Masakan Padang Ampera Uni 2 adalah rumah makan yang menyajikan cita rasa khas Minang
           </p>
         </div>
 
@@ -167,16 +166,15 @@ const FeaturedStories = () => (
         <div className="flex flex-col items-center">
           <img
             className="h-24 w-24 rounded-full object-cover mb-4"
-            src="https://placehold.co/100x100/E8F5E9/81C784?text=Green"
-            alt="Green Earth Crafts"
+            src="https://placehold.co/100x100/E8F5E9/81C784?text=Tombo"
+            alt="food & Beverage"
           />
           <h3 className="text-lg font-semibold text-gray-900">
-            Green Earth Crafts
+            Tombo Luwe
           </h3>
-          <p className="text-gray-500 mb-2">Handicraft & Art</p>
+          <p className="text-gray-500 mb-2">food & Beverage</p>
           <p className="text-sm text-gray-600">
-            Eco-friendly handmade products that support local artisans and
-            sustainable practices...
+            Warteg Tombo Luwe adalah tempat makan sederhana yang menyajikan beragam lauk rumahan
           </p>
         </div>
 
@@ -184,16 +182,15 @@ const FeaturedStories = () => (
         <div className="flex flex-col items-center">
           <img
             className="h-24 w-24 rounded-full object-cover mb-4"
-            src="https://placehold.co/100x100/E3F2FD/64B5F6?text=Tech"
+            src="https://placehold.co/100x100/E3F2FD/64B5F6?text=Goeboeg"
             alt="TechHub Repairs"
           />
           <h3 className="text-lg font-semibold text-gray-900">
-            TechHub Repairs
+            Warkop Goeboeg 99
           </h3>
-          <p className="text-gray-500 mb-2">Services</p>
+          <p className="text-gray-500 mb-2">food & Beverage</p>
           <p className="text-sm text-gray-600">
-            Fast and reliable electronics repair service trusted by the
-            community for 5 years...
+            Warkop Goeboeg 99 adalah tempat nongkrong sederhana yang menawarkan suasana hangat dan akrab
           </p>
         </div>
       </div>
