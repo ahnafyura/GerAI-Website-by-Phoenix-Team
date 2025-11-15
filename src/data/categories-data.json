@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Food & Beverage",
+    "icon": "/icons/foodandbeverage.svg"
+  },
+  {
+    "id": 2,
+    "name": "Technology",
+    "icon": "/icons/technology.svg"
+  },
+  {
+    "id": 3,
+    "name": "Home & Garden",
+    "icon": "/icons/homeandgarden.svg"
+  },
+  {
+    "id": 4,
+    "name": "Fashion",
+    "icon": "/icons/fashion.svg"
+  },
+  {
+    "id": 5,
+    "name": "Health & Wellness",
+    "icon": "/icons/healthandwellness.svg"
+  },
+  {
+    "id": 6,
+    "name": "Professional Services",
+    "icon": "/icons/professionalservices.svg"
+  },
+  {
+    "id": 7,
+    "name": "Arts & Crafts",
+    "icon": "/icons/artsandcrafts.svg"
+  },
+  {
+    "id": 8,
+    "name": "Automotive",
+    "icon": "/icons/automotive.svg"
+  }
+]

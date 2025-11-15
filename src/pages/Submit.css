@@ -1,0 +1,95 @@
+/* Styling untuk halaman 'Bagikan Kisahmu' */
+.submit-page-container {
+  padding: 40px 20px;
+  background-color: #1e293b; /* Latar belakang gelap (sesuai tema) */
+  color: #f1f5f9;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.submit-form-card {
+  background-color: #334155; /* Warna kartu yang sedikit lebih terang */
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 800px;
+}
+
+.submit-form-card h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #fff;
+}
+
+.submit-form-card p {
+  font-size: 1rem;
+  color: #cbd5e1;
+  margin-bottom: 30px;
+}
+
+.submit-form h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #e2e8f0;
+  border-bottom: 1px solid #475569;
+  padding-bottom: 8px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #cbd5e1;
+}
+
+.form-group input[type="text"],
+.form-group input[type="number"],
+.form-group input[type="url"],
+.form-group input[type="tel"],
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 12px;
+  background-color: #475569; /* Latar input */
+  border: 1px solid #64748b;
+  border-radius: 8px;
+  color: #f1f5f9; /* Warna teks input */
+  font-size: 1rem;
+}
+
+.form-group input[type="text"]::placeholder,
+.form-group textarea::placeholder {
+  color: #94a3b8;
+}
+
+.form-group input[type="file"] {
+  padding: 10px;
+}
+
+.submit-button {
+  background-color: #f97316; /* Warna oranye dari screenshot */
+  color: #fff;
+  font-weight: 700;
+  padding: 14px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.submit-button:hover {
+  background-color: #ea580c;
+}
