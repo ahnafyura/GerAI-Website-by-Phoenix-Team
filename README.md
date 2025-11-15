@@ -1,51 +1,89 @@
 # GerAI Direktori Kisah UMKM Lokal
 
-GerAI adalah platform direktori UMKM yang berfokus pada storytelling untuk menggali dan menampilkan kisah inspiratif di balik setiap bisnis lokal. Nama GerAI merupakan gabungan dari Gerai dan AI Kisah yang mencerminkan misi proyek ini yaitu Ulik Kisahnya.
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![React](https://img.shields.io/badge/React-19-blue)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-teal)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Front%20End-Only-orange)
 
-Proyek ini dibuat sebagai submisi untuk MIA Multimedia In Action 2025 dengan tema Empowering Visionaries Impacting Industries. Seluruh aplikasi dibuat sebagai Front End murni sesuai ketentuan kompetisi.
+GerAI adalah platform direktori UMKM yang berfokus pada storytelling untuk menggali dan menampilkan kisah inspiratif dari para pelaku usaha lokal. Nama GerAI merupakan gabungan dari kata Gerai dan AI Kisah yang menggambarkan visi utama yaitu Ulik Kisahnya. Proyek ini diikutkan dalam ajang MIA 2025 dengan tema Empowering Visionaries Impacting Industries dan sepenuhnya dibangun sebagai aplikasi Front End.
 
-## Tampilan Aplikasi
+---
 
-<img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p1.png" width="600" />
-<img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p2.png" width="600" />
-<img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p3.png" width="600" />
-<img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p4.png" width="600" />
-<img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p5.png" width="600" />
-<img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p6.png" width="600" />
-<img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p7.png" width="600" />
-<img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p8.png" width="600" />
+## Daftar Isi
+
+* [Preview Aplikasi](#preview-aplikasi)
+* [Mengapa Proyek Ini Penting](#mengapa-proyek-ini-penting)
+* [Fitur Utama](#fitur-utama)
+* [Tech Stack](#tech-stack)
+* [Struktur Folder](#struktur-folder)
+* [Roadmap](#roadmap)
+* [Menjalankan Proyek Secara Lokal](#menjalankan-proyek-secara-lokal)
+* [Kontribusi](#kontribusi)
+* [Lisensi](#lisensi)
+
+---
+
+## Preview Aplikasi
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p2.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p3.png" width="300" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p4.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p5.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p6.png" width="300" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p7.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ahnafyura/GerAI-Website-by-Phoenix-Team/main/img/p8.png" width="300" />
+</p>
+
+---
+
+## Mengapa Proyek Ini Penting
+
+GerAI membantu UMKM membangun identitas digital melalui penyampaian kisah usaha yang otentik. Dengan mengangkat cerita para pelaku UMKM maka platform ini memberi nilai tambah bagi ekonomi lokal dan memperluas jangkauan bisnis kecil agar lebih dikenal masyarakat.
 
 ---
 
 ## Fitur Utama
 
-* Direktori UMKM Dinamis
-  Data UMKM diambil dari database JSON statis umkm data json dan dirender secara dinamis.
+### Direktori UMKM Dinamis
 
-* Pencarian Real time TBD
-  Search bar pada navbar untuk memfilter bisnis secara instan.
+Data berasal dari file JSON statis yang dirender secara real time.
 
-* Halaman Detail Bisnis
-  Setiap UMKM memiliki halaman detail melalui BusinessDetailPage jsx lengkap dengan cerita galeri dan lokasi sesuai TM MIA 2025.
+### Pencarian Real Time
 
-* Filter Kategori
-  Pengguna dapat menelusuri UMKM berdasarkan kategori menggunakan CategoriesPage jsx dan categories data json.
+Search bar pada navbar untuk memfilter daftar UMKM secara cepat.
 
-* X Factor Simpan Favorit Tanpa Database
-  Menggunakan React Hook useFavorites js dengan penyimpanan pada Local Storage. Tetap memenuhi aturan front end only.
+### Halaman Detail UMKM
 
-* Desain Modern dan Responsif
-  Dibangun menggunakan Tailwind CSS.
+Menampilkan cerita latar belakang galeri dan informasi bisnis pada halaman khusus.
+
+### Filter Kategori
+
+Pengguna dapat memilih bisnis berdasarkan kategori tertentu.
+
+### Fitur Simpan Favorit
+
+Menggunakan Local Storage dan React Hook untuk menyimpan UMKM favorit.
+
+### Desain Modern dan Responsif
+
+Menggunakan Tailwind CSS untuk tampilan yang adaptif dan nyaman.
 
 ---
 
 ## Tech Stack
 
-* React 19 Vite
+* React 19 dengan Vite
 * Tailwind CSS
 * React Router v6
-* React Hooks useState useEffect useContext
-* Local Storage untuk fitur favorit
+* React Hooks
+* Local Storage
 * ESLint
 
 ---
@@ -54,21 +92,32 @@ Proyek ini dibuat sebagai submisi untuk MIA Multimedia In Action 2025 dengan tem
 
 ```
 PHOENIXDIR/
-├── public/           # Aset statis seperti gambar UMKM
+├── public/
 ├── src/
-│   ├── assets/       # Logo ikon dan aset lainnya
+│   ├── assets/
 │   ├── components/
-│   │   ├── common/   # Komponen UI umum seperti BusinessCard jsx
-│   │   └── layout/   # Navbar Footer dan layout
-│   ├── data/         # JSON statis untuk UMKM dan kategori
-│   ├── hooks/        # Custom hooks seperti useFavorites js
-│   ├── pages/        # Halaman seperti Home Categories Detail dan lain lain
-│   ├── App jsx       # Routing utama
-│   └── index css     # CSS global dan setup Tailwind
+│   │   ├── common/
+│   │   └── layout/
+│   ├── data/
+│   ├── hooks/
+│   ├── pages/
+│   ├── App jsx
+│   └── index css
 ├── .gitignore
 ├── package json
 └── vite config js
 ```
+
+---
+
+## Roadmap
+
+* [x] Halaman Detail UMKM
+* [x] Sistem Favorit
+* [x] Galeri dan Layout
+* [ ] Pencarian Real Time
+* [ ] Mode Gelap
+* [ ] Integrasi Map
 
 ---
 
@@ -77,7 +126,7 @@ PHOENIXDIR/
 1. Clone repository
 
 ```
-git clone https://github.com/USERNAME/NAMA REPO.git
+git clone https://github.com/USERNAME/REPO.git
 ```
 
 2. Masuk direktori proyek
@@ -98,12 +147,21 @@ npm install
 npm run dev
 ```
 
-5. Buka di browser
+5. Buka browser dan akses
+   [http://localhost:5173](http://localhost:5173)
 
-[http://localhost:5173](http://localhost:5173)
+---
+
+## Kontribusi
+
+Kontribusi dari siapa saja sangat dihargai. Fork proyek ini buat branch baru dan ajukan pull request.
 
 ---
 
 ## Lisensi
 
-Proyek ini menggunakan Lisensi MIT.
+Proyek ini menggunakan lisensi MIT.
+
+---
+
+Dibuat dengan hati oleh Phoenix Team untuk MIA 2025
