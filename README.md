@@ -160,7 +160,6 @@ Terima kasih kepada para kontributor yang telah mendukung proyek ini
         <sub><b>Ahnaf</b></sub>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/yuruze07">
         <img src="https://github.com/yuruze07.png" width="90" style="border-radius:50%" />
@@ -168,7 +167,6 @@ Terima kasih kepada para kontributor yang telah mendukung proyek ini
         <sub><b>Fawwaz</b></sub>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/hazzmiuww">
         <img src="https://github.com/hazzmiuww.png" width="90" style="border-radius:50%" />
