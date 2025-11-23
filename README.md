@@ -8,7 +8,7 @@
 
 GerAI adalah platform direktori UMKM yang berfokus pada storytelling untuk menggali dan menampilkan kisah inspiratif dari para pelaku usaha lokal. Nama GerAI merupakan gabungan dari kata Gerai dan AI Kisah yang menggambarkan visi utama yaitu Ulik Kisahnya. Proyek ini diikutkan dalam ajang MIA 2025 dengan tema Empowering Visionaries Impacting Industries dan sepenuhnya dibangun sebagai aplikasi Front End.
 
----
+--- 
 
 ## Daftar Isi
 
